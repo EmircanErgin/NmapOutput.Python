@@ -1,0 +1,3 @@
+import os
+os.system("nmap instagram.com -oX emir.xml")
+os.system("nmap facebook.com -oX emir1.xml")
